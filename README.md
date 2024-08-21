@@ -9,4 +9,4 @@ This folder contains the `nav.js` file, which is a script used to enhance the po
 
 ### Usage
 
-Add the `https://cdn.jsdelivr.net/gh/baker-creative/powerups-nav@1.x/nav.js` script to your HTML file.
+Add the `https://cdn.jsdelivr.net/gh/baker-creative/powerups-nav@2.x/nav.js` script to your HTML file.
